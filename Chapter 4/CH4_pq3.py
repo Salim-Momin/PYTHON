@@ -2,6 +2,6 @@
 
 a = (34,"rizwan")
 
-a[2] = "gay"
+a[2] = "smash"
 
 #you cannot change the tuple type because of tuple is immutable  
