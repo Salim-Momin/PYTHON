@@ -1,0 +1,9 @@
+# Write a python function to print the multiplication table for given number.
+
+def table():
+    n = int(input("Enter the number: "))
+    for i in range(1,11):
+        print(f"{n} X {i} = {n*i}")
+
+table()
+
